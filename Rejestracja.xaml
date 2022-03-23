@@ -1,0 +1,41 @@
+﻿<Window x:Class="Baza.Rejestracja"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Baza"
+        mc:Ignorable="d"
+        Title="Rejestracja" Height="450" Width="800">
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="290" Margin="10,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="334"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="290" Margin="382,10,0,0" VerticalAlignment="Top" Width="351"/>
+
+        <Label x:Name="lblModel" Content="Wybierz dostępny w tym czasie model:" HorizontalAlignment="Left" Margin="27,119,0,0" VerticalAlignment="Top" Width="234"/>
+        <Label x:Name="lblOD" Content="Od kiedy wypożyczenie" HorizontalAlignment="Left" Margin="29,20,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDO" Content="Do kiedy wypożyczenie" HorizontalAlignment="Left" Margin="29,57,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="timeWypozyczenie_OD" HorizontalAlignment="Left" Margin="195,21,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.502,0.585"/>
+        <DatePicker x:Name="timeWypozyczenie_DO" HorizontalAlignment="Left" Margin="195,58,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lstboxModele" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="27,152,501,180"/>
+        <Label x:Name="lblCENA" Content="Całkowita kwota za wypożyczenie" HorizontalAlignment="Left" Margin="27,274,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtCenaZaWynajem" HorizontalAlignment="Left" Margin="249,279,0,0" TextWrapping="Wrap" Text="0zł" VerticalAlignment="Top"/>
+        <Label x:Name="lblDanePlatnika" Content="Dane osoby wypożyczającej" HorizontalAlignment="Left" Margin="400,20,0,0" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="pswd" HorizontalAlignment="Left" Margin="546,230,0,0" VerticalAlignment="Top" Width="160" Height="30"/>
+        <Label x:Name="lblHasloDoPlatfromy" Content="Twoje hasło do platformy:" HorizontalAlignment="Left" Margin="394,228,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnFINALRezerwacja" Content="Rezerwuj" HorizontalAlignment="Left" Margin="10,356,0,0" VerticalAlignment="Top" Click="btnFINALRezerwacja_Click"/>
+        <CheckBox x:Name="checkboxOswiadczenie1" Content="Oświadczam że zapoznałem/am się z treścią Regulaminu firmy sp. z o. o. RentCar " HorizontalAlignment="Left" Margin="10,316,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkboxOswiadczenie2" Content="Akceptuję i zobowiązuję się do przestrzegania zapisów zawartych w Regulaminie" HorizontalAlignment="Left" Margin="10,336,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNrPrawaJazdy" HorizontalAlignment="Left" Margin="546,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="txtNrDowoduOs" HorizontalAlignment="Left" Margin="546,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="txtNazwisko" HorizontalAlignment="Left" Margin="546,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="txtImie" HorizontalAlignment="Left" Margin="546,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="txtTelefon" HorizontalAlignment="Left" Margin="546,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <Label x:Name="lblTEL" Content="Telefon kontaktowy +48:" HorizontalAlignment="Left" Margin="394,195,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPrawko" Content="Nr prawa jazdy:" HorizontalAlignment="Left" Margin="394,162,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDowodOsobisty" Content="Nr dowodu osobistego:" HorizontalAlignment="Left" Margin="394,127,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblNazwisko" Content="Nazwisko:" HorizontalAlignment="Left" Margin="394,92,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblImie" Content="Imię:" HorizontalAlignment="Left" Margin="394,57,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnAnuluj" Content="Anuluj" HorizontalAlignment="Left" Margin="626,356,0,0" VerticalAlignment="Top" Background="#FFFF7E7E" Height="20" Width="107" Click="btnAnuluj_Click"/>
+        <Button x:Name="btnWczytajAuta" Content="Sprawdź dostępność aut" HorizontalAlignment="Left" Margin="165,98,0,0" VerticalAlignment="Top" Click="btnWczytajAuta_Click"/>
+
+    </Grid>
+</Window>

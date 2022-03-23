@@ -1,0 +1,23 @@
+﻿<Window x:Class="Baza.Administracja"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Baza"
+        mc:Ignorable="d"
+        Title="Administracja" Height="450" Width="700">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/gear.jpg" Opacity="0.2"/>
+        </Grid.Background>
+        <Button x:Name="Dodaj_klienta_btn" Width="80" Height="50" Margin="474,42,138,327" RenderTransformOrigin="-0.032,0.411" Click="Dodaj_klienta_btn_Click">Nowy Klient</Button>
+        <Button x:Name="Usun_klienta_btn" Width="80" Height="50" Margin="345,42,267,327" Click="Usun_klienta_btn_Click" >Usuń Klienta</Button>
+        <Button x:Name="Edytuj_klienta_btn" Width="125" Height="50"  Click="Edytuj_klienta_btn_Click" Margin="159,42,408,327">Edytuj Dane Klienta</Button>
+
+        <Button x:Name="Zlec_przeglad_btn" Width="150" Height="50" Margin="191,310,351,59" Click="Zlec_przeglad_btn_Click">Zleć przegląd pojazdu</Button>
+        <Button x:Name="odbierz_z_przegladu" Width="150" Height="50" Margin="360,310,182,59" Click="odbierz_z_przegladu_Click">Odbierz z przeglądu</Button>
+        <Button x:Name="pojazdy_do_obslugi_btn" Width="200" Height="150" Margin="250,133,242,136" Click="pojazdy_do_obslugi_btn_Click">Sprawdź pojazdy do obsługi</Button>
+
+
+    </Grid>
+</Window>

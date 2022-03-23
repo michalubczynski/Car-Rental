@@ -1,0 +1,14 @@
+﻿<Window x:Class="Baza.Prezes_aktualne_wypozyczenia"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Baza"
+        mc:Ignorable="d"
+        Title="Aktualne wypożyczenia TESLA" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Label Margin="204,10,180,342" FontSize="24" Content="Obecne i zaplanowane wypożyczenia:"/>
+        <DataGrid Margin="10,53,10,10" x:Name="dtgrid" ItemsSource="{Binding}" />
+
+    </Grid>
+</Window>

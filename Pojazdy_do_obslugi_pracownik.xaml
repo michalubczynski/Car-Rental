@@ -1,0 +1,14 @@
+﻿<Window x:Class="Baza.Pojazdy_do_obslugi_pracownik"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Baza"
+        mc:Ignorable="d"
+        Title="Pojazdy do obsługi" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Label x:Name="lblTEL" Content="Twoje przyszłe lub obecne poajzdy do obsługi:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,10,0,0" Height="53" Width="384" FontSize="18"/>
+        <DataGrid Margin="10,53,10,10" x:Name="dtgrid" ItemsSource="{Binding}" />
+
+    </Grid>
+</Window>

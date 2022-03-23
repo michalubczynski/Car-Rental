@@ -1,0 +1,18 @@
+﻿<Window x:Class="Baza.Prezes_usun_pracownika"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Baza"
+        mc:Ignorable="d"
+        Title="Usuwanie Pracownika" Height="270" Width="500" ResizeMode="NoResize">
+    <Grid>
+        <TextBox x:Name="NAZWISKO" HorizontalAlignment="Left" Margin="238,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="IMIE" HorizontalAlignment="Left" Margin="238,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="NRDOWODU" HorizontalAlignment="Left" Margin="238,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <Label x:Name="lblTEL" Content="Nr Dowodu osobistego:" HorizontalAlignment="Left" Margin="86,111,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPrawko" Content="Nazwisko:" HorizontalAlignment="Left" Margin="86,78,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDowodOsobisty" Content="Imie" HorizontalAlignment="Left" Margin="86,43,0,0" VerticalAlignment="Top"/>
+        <Button Margin="86,146,94,64" Click="Button_Click" Content="USUŃ PRACOWNIKA"/>
+    </Grid>
+</Window>

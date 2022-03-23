@@ -1,0 +1,310 @@
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\Baza.exe.config
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\Baza.exe
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\Baza.pdb
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza.csproj.AssemblyReference.cache
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Login Screen.g.cs
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\MainWindow.g.cs
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\App.g.cs
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza_MarkupCompile.cache
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza_MarkupCompile.lref
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Login Screen.baml
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\MainWindow.baml
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza.g.resources
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza.csproj.GenerateResource.cache
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza.exe
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza.pdb
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\Google.Protobuf.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\MySql.Data.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\System.Buffers.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\System.Memory.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\ZstdNet.dll
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\Google.Protobuf.pdb
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\Google.Protobuf.xml
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\MySql.Data.xml
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\System.Buffers.xml
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\System.Memory.xml
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Andrzej\Desktop\baza\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andrzej\Desktop\baza\Baza\obj\Debug\Baza.csproj.CopyComplete
+D:\Baza\bin\Debug\Baza.exe.config
+D:\Baza\bin\Debug\Baza.exe
+D:\Baza\bin\Debug\Baza.pdb
+D:\Baza\bin\Debug\BouncyCastle.Crypto.dll
+D:\Baza\bin\Debug\Google.Protobuf.dll
+D:\Baza\bin\Debug\K4os.Compression.LZ4.dll
+D:\Baza\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Baza\bin\Debug\K4os.Hash.xxHash.dll
+D:\Baza\bin\Debug\MySql.Data.dll
+D:\Baza\bin\Debug\System.Buffers.dll
+D:\Baza\bin\Debug\System.Memory.dll
+D:\Baza\bin\Debug\System.Numerics.Vectors.dll
+D:\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Baza\bin\Debug\Ubiety.Dns.Core.dll
+D:\Baza\bin\Debug\ZstdNet.dll
+D:\Baza\bin\Debug\Google.Protobuf.pdb
+D:\Baza\bin\Debug\Google.Protobuf.xml
+D:\Baza\bin\Debug\K4os.Compression.LZ4.xml
+D:\Baza\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Baza\bin\Debug\K4os.Hash.xxHash.xml
+D:\Baza\bin\Debug\MySql.Data.xml
+D:\Baza\bin\Debug\System.Buffers.xml
+D:\Baza\bin\Debug\System.Memory.xml
+D:\Baza\bin\Debug\System.Numerics.Vectors.xml
+D:\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Baza\obj\Debug\Baza.csproj.AssemblyReference.cache
+D:\Baza\obj\Debug\Baza.csproj.SuggestedBindingRedirects.cache
+D:\Baza\obj\Debug\Login Screen.g.cs
+D:\Baza\obj\Debug\MainWindow.g.cs
+D:\Baza\obj\Debug\App.g.cs
+D:\Baza\obj\Debug\Baza_MarkupCompile.cache
+D:\Baza\obj\Debug\Baza_MarkupCompile.lref
+D:\Baza\obj\Debug\Login Screen.baml
+D:\Baza\obj\Debug\MainWindow.baml
+D:\Baza\obj\Debug\Baza.g.resources
+D:\Baza\obj\Debug\Baza.Properties.Resources.resources
+D:\Baza\obj\Debug\Baza.csproj.GenerateResource.cache
+D:\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+D:\Baza\obj\Debug\Baza.csproj.CopyComplete
+D:\Baza\obj\Debug\Baza.exe
+D:\Baza\obj\Debug\Baza.pdb
+D:\Baza\obj\Debug\Rejestracja.g.cs
+D:\Baza\obj\Debug\Rejestracja.baml
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Login Screen.g.cs
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\MainWindow.g.cs
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Rejestracja.g.cs
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\App.g.cs
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza_MarkupCompile.cache
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza_MarkupCompile.lref
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza.exe
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza.pdb
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\Baza.exe.config
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\Baza.exe
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\Baza.pdb
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\Google.Protobuf.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\MySql.Data.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\System.Buffers.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\System.Memory.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\ZstdNet.dll
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\Google.Protobuf.pdb
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\Google.Protobuf.xml
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\MySql.Data.xml
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\System.Buffers.xml
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\System.Memory.xml
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\micha\Desktop\ROBIE\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Login Screen.baml
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\MainWindow.baml
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Rejestracja.baml
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza.g.resources
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza.Properties.Resources.resources
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\ROBIE\Baza\obj\Debug\Baza.csproj.CopyComplete
+C:\Users\Majkel\Downloads\Baza\bin\Debug\Baza.exe.config
+C:\Users\Majkel\Downloads\Baza\bin\Debug\Baza.exe
+C:\Users\Majkel\Downloads\Baza\bin\Debug\Baza.pdb
+C:\Users\Majkel\Downloads\Baza\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\Google.Protobuf.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\MySql.Data.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\System.Buffers.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\System.Memory.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\ZstdNet.dll
+C:\Users\Majkel\Downloads\Baza\bin\Debug\Google.Protobuf.pdb
+C:\Users\Majkel\Downloads\Baza\bin\Debug\Google.Protobuf.xml
+C:\Users\Majkel\Downloads\Baza\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Majkel\Downloads\Baza\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Majkel\Downloads\Baza\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Majkel\Downloads\Baza\bin\Debug\MySql.Data.xml
+C:\Users\Majkel\Downloads\Baza\bin\Debug\System.Buffers.xml
+C:\Users\Majkel\Downloads\Baza\bin\Debug\System.Memory.xml
+C:\Users\Majkel\Downloads\Baza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Majkel\Downloads\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza.csproj.AssemblyReference.cache
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Login Screen.g.cs
+C:\Users\Majkel\Downloads\Baza\obj\Debug\MainWindow.g.cs
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Rejestracja.g.cs
+C:\Users\Majkel\Downloads\Baza\obj\Debug\App.g.cs
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza_MarkupCompile.cache
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza_MarkupCompile.lref
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Login Screen.baml
+C:\Users\Majkel\Downloads\Baza\obj\Debug\MainWindow.baml
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Rejestracja.baml
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza.g.resources
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza.Properties.Resources.resources
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza.csproj.GenerateResource.cache
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza.csproj.CopyComplete
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza.exe
+C:\Users\Majkel\Downloads\Baza\obj\Debug\Baza.pdb
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\Baza.exe.config
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\Baza.exe
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\Baza.pdb
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\Google.Protobuf.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\MySql.Data.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\System.Buffers.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\System.Memory.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\ZstdNet.dll
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\Google.Protobuf.pdb
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\Google.Protobuf.xml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\MySql.Data.xml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\System.Buffers.xml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\System.Memory.xml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza.csproj.AssemblyReference.cache
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\MainWindow.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Rejestracja.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\App.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza_MarkupCompile.cache
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza_MarkupCompile.lref
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\MainWindow.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Rejestracja.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza.g.resources
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza.csproj.GenerateResource.cache
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza.csproj.CopyComplete
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza.exe
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Baza.pdb
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Administracja.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Administracja.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Klient_Administracja.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Klient_Administracja.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Delete_client.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Delete_client.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Edytuj_klienta.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Nowy_klient.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Pojazdy_do_obslugi_pracownik.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Zlec_przeglad.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Edytuj_klienta.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Nowy_klient.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Pojazdy_do_obslugi_pracownik.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Zlec_przeglad.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\przeglad_odbior.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\przeglad_odbior.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Panel_prezes.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Panel_prezes.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_aktualne_wypozyczenia.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_dodaj_pojazd.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_edytuj_pracownika.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_nowy_pracownik.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_usun_pojazd.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_usun_pracownika.g.cs
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_aktualne_wypozyczenia.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_dodaj_pojazd.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_edytuj_pracownika.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_nowy_pracownik.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_usun_pojazd.baml
+C:\Users\Andrzej\Desktop\baza\18.02\Baza\obj\Debug\Prezes_usun_pracownika.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\Baza.exe.config
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\Baza.exe
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\Baza.pdb
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\Google.Protobuf.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\MySql.Data.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\System.Buffers.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\System.Memory.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\ZstdNet.dll
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\Google.Protobuf.pdb
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\Google.Protobuf.xml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\MySql.Data.xml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\System.Buffers.xml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\System.Memory.xml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza.csproj.AssemblyReference.cache
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza.csproj.SuggestedBindingRedirects.cache
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Administracja.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Delete_client.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Edytuj_klienta.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Klient_Administracja.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\MainWindow.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Nowy_klient.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Panel_prezes.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Pojazdy_do_obslugi_pracownik.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_aktualne_wypozyczenia.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_dodaj_pojazd.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_edytuj_pracownika.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_nowy_pracownik.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_usun_pojazd.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_usun_pracownika.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\przeglad_odbior.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Rejestracja.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Zlec_przeglad.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\App.g.cs
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza_MarkupCompile.cache
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza_MarkupCompile.lref
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Administracja.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Delete_client.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Edytuj_klienta.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Klient_Administracja.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\MainWindow.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Nowy_klient.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Panel_prezes.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Pojazdy_do_obslugi_pracownik.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_aktualne_wypozyczenia.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_dodaj_pojazd.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_edytuj_pracownika.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_nowy_pracownik.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_usun_pojazd.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Prezes_usun_pracownika.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\przeglad_odbior.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Rejestracja.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Zlec_przeglad.baml
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza.g.resources
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza.Properties.Resources.resources
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza.csproj.GenerateResource.cache
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza.csproj.CoreCompileInputs.cache
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza.csproj.CopyComplete
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza.exe
+C:\Users\Majkel\Downloads\Baza 19.02\Baza\obj\Debug\Baza.pdb

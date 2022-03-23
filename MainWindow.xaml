@@ -1,0 +1,93 @@
+﻿<Window x:Name="TeslaRent" x:Class="Baza.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Baza"
+        mc:Ignorable="d"
+        Title="TeslaRent" Height="600" Width="1000" ResizeMode="NoResize">
+    <Grid RenderTransformOrigin="0.5,0.5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="89*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border x:Name="BorderPanelAdministracyjny" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="104" Margin="10,453,0,0" VerticalAlignment="Top" Width="295" Grid.ColumnSpan="2">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <TextBox x:Name="txtBoxEmail" TextWrapping="Wrap" Text="login" Width="200" Height="35" Background="#FFD2F9F7" Margin="9,9,84,58"/>
+        </Border>
+        <Button x:Name="btnLogowanie" Content="Zaloguj się" HorizontalAlignment="Left" Margin="241,535,0,0" VerticalAlignment="Top" Height="22" Width="64" Click="btnLogowanie_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="btn_RezerwujSamochody" Content="Rezerwuj samochód" HorizontalAlignment="Left" Margin="528,501,0,0" VerticalAlignment="Top" Height="42" Width="117" Click="btn_RezerwujSamochody_Click" Grid.Column="1"/>
+        <Label x:Name="lblFLOTA" Content="Nasza dostepna flota:" HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top" FontFamily="Arial Black" FontSize="20" Foreground="#FF426967"/>
+        <TabControl x:Name="tabControlAUTA" Margin="251,10,10,323" Grid.Column="1">
+            <TabItem Header="Tesla S">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1">
+                        <GradientStop Color="#FFF0F0F0"/>
+                        <GradientStop Color="#FF5D9E99" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="75*"/>
+                        <ColumnDefinition Width="371*"/>
+                    </Grid.ColumnDefinitions>
+                    <Canvas x:Name="cnvTeslaS" Grid.ColumnSpan="2">
+                    </Canvas>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Tesla X">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0"/>
+                        <GradientStop Color="#FF5D9E99" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <Canvas x:Name="cnvTeslaX">
+                    </Canvas>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Tesla 3" HorizontalAlignment="Left" Margin="-2,-2,0,0" Width="51">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0"/>
+                        <GradientStop Color="#FF5D9E99" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <Canvas x:Name="cnvTesla3">
+                        <Canvas.Style>
+                            <Style/>
+                        </Canvas.Style>
+                    </Canvas>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Tesla Roadster">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="0"/>
+                        <GradientStop Color="#FF5D9E99" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <Canvas x:Name="cnvTeslaRoadster">
+
+                    </Canvas>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <PasswordBox x:Name="txtBoxHaslo" HorizontalAlignment="Left" Margin="19,505,0,0" VerticalAlignment="Top" Width="200" Height="41" Background="#FFD2F9F7"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+﻿<Window x:Class="Baza.Panel_prezes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Baza"
+        mc:Ignorable="d"
+        Title="Panel Prezesa" Height="370" Width="600" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,3">
+        <Button x:Name="aktualne_wypozyczenia_btn" Height="100" Margin="50,142,27,96" Click="Button_Click">Sprawdź aktualne wypożyczenia</Button>
+        <Button x:Name="usun_pracownika_btn" Width="100" Height="100" Margin="353,20,141,218" Click="Button_Click_4"  >Usuń pracownika</Button>
+        <Button x:Name="usun_pojazd_btn" Height="100" Width="80" Margin="149,20,365,218" Click="Button_Click_2">Usuń pojazd</Button>
+        <Button x:Name="dodaj_pojazd_btn" Height="100" Width="80" Margin="50,20,454,218" Click="Button_Click_1">Dodaj pojazd</Button>
+        <Button x:Name="edytuj_pracownika_btn" Height="100" Width="100" Margin="467,20,27,218" Click="Button_Click_5" >Edytuj pracownika</Button>
+        <Button x:Name="nowy_pracownik_btn" Height="100" Margin="246,20,255,218" Click="Button_Click_3">Nowy pracownik</Button>
+    </Grid>
+</Window>

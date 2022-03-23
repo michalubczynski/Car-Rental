@@ -1,0 +1,24 @@
+﻿<Window x:Class="Baza.Prezes_nowy_pracownik"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Baza"
+        mc:Ignorable="d"
+        Title="Prezes_nowy_pracownik" Height="450" Width="800">
+    <Grid>
+        <Button Margin="20,347,10,10" Click="Button_Click" Content="Dodaj pracownika&#xD;&#xA;"/>
+        <TextBox x:Name="Imie"  HorizontalAlignment="Left" Margin="51,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="Nazwisko"  HorizontalAlignment="Left" Margin="51,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="numer_telefonu"  HorizontalAlignment="Left" Margin="51,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="numer_umowy"  HorizontalAlignment="Left" Margin="51,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="numer_dowodu"  HorizontalAlignment="Left" Margin="51,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="haslo"  HorizontalAlignment="Left" Margin="51,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <Label Margin="211,53,220,333" Content="Imię"/>
+        <Label Margin="211,88,220,298" Content="Nazwisko"/>
+        <Label Margin="211,123,220,263" Content="Numer Telefonu"/>
+        <Label Margin="211,158,200,228" Content="Numer umowy"/>
+        <Label Margin="211,193,220,193" Content="Numer Dowodu osobistego"/>
+        <Label Margin="211,228,220,158" Content="Hasło logowania"/>
+    </Grid>
+</Window>

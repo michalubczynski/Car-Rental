@@ -1,0 +1,24 @@
+﻿<Window x:Class="Baza.Nowy_klient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Baza"
+        mc:Ignorable="d"
+        Title="Dodaj Klienta" Height="450" Width="500" ResizeMode="NoResize">
+    <Grid>
+        <TextBox x:Name="NAZWISKO" HorizontalAlignment="Left" Margin="235,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="IMIE" HorizontalAlignment="Left" Margin="235,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="NRDOWODU" HorizontalAlignment="Left" Margin="235,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="nr_tel" HorizontalAlignment="Left" Margin="235,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <TextBox x:Name="nr_prawa_jazdy" HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30" RenderTransformOrigin="0.446,3.609" Margin="235,194,0,0"/>
+        <TextBox x:Name="haslo" HorizontalAlignment="Left" Margin="235,229,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="30"/>
+        <Label x:Name="lblTEL" Content="Nr Dowodu osobistego:" HorizontalAlignment="Left" Margin="83,124,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblprawojazdy" Content="Numer Prawa Jazdy:" HorizontalAlignment="Left" Margin="83,198,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblhaslo" Content="Numer Telefonu" HorizontalAlignment="Left" Margin="83,163,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPrawko" Content="Nazwisko:" HorizontalAlignment="Left" Margin="83,91,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDowodOsobisty" Content="Imie" HorizontalAlignment="Left" Margin="83,56,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblhasloo" Content="hasło" HorizontalAlignment="Left" Margin="83,233,0,0" VerticalAlignment="Top"/>
+        <Button Click="Button_Click" Content="Dodaj Klienta" Margin="83,285,97,62"/>
+    </Grid>
+</Window>
